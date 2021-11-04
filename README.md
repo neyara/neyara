@@ -1,4 +1,4 @@
-## 🙂 About me
+## ✒️ About me
 
 Hey there, my name is Nívea and I'm a computer scientist, backend developer, and Flutter enthusiast. I'm from Brazil 
 and currently working at Fechô. In my free time, I usually learn about new technologies to expand my knowledge in 
@@ -60,7 +60,7 @@ More badges at: https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-## 📊 Stats
+## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=neyara&count_private=true&show_icons=true&include_all_commits=true" />
