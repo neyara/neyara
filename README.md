@@ -1,7 +1,7 @@
 ## ✒️ About me
 
 Hey there, my name is Nívea and I'm a computer scientist, backend developer, and Flutter enthusiast. I'm from Brazil 
-and currently working at Fechô. In my free time, I usually learn about new technologies to expand my knowledge in 
+and currently working at Bit Capital. In my free time, I usually learn about new technologies to expand my knowledge in 
 other fields of study, like cloud computing and data analysis.
 
 <!---
